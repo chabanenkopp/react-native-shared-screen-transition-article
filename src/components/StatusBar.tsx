@@ -1,3 +1,4 @@
+import React from 'react';
 import {StackProps, useTheme} from 'tamagui';
 import {StatusBar as NativeStatusBar, StatusBarStyle} from 'react-native';
 import {IS_ANDROID} from 'constants/constants';

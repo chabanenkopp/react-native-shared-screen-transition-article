@@ -1,3 +1,4 @@
+import React from 'react';
 import {StackProps, Text, YStack, useTheme} from 'tamagui';
 import {transparentize} from 'polished';
 

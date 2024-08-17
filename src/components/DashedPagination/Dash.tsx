@@ -1,3 +1,4 @@
+import React from 'react';
 import {useWindowDimensions} from 'react-native';
 import {
   interpolate,

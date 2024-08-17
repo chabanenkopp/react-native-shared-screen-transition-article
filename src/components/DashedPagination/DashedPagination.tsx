@@ -1,3 +1,4 @@
+import React from 'react';
 import {StackProps, XStack} from 'tamagui';
 import {
   SharedValue,

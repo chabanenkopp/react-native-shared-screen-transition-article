@@ -1,3 +1,4 @@
+import React from 'react';
 import {StackProps, YStack, useTheme} from 'tamagui';
 import {transparentize} from 'polished';
 import {getSharedImageTransition} from 'utils/transitions';
