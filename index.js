@@ -1,6 +1,4 @@
-/**
- * @format
- */
+import React from 'react';
 import {TamaguiProvider} from 'tamagui';
 import {AppRegistry} from 'react-native';
 import {NavigationContainer} from '@react-navigation/native';
