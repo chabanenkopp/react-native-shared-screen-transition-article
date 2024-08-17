@@ -1,3 +1,4 @@
+import React from 'react';
 import Animated from 'react-native-reanimated';
 import {useWindowDimensions} from 'react-native';
 import type {NativeStackScreenProps} from '@react-navigation/native-stack';
